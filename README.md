@@ -12,7 +12,7 @@ The goal of this repository is to document my ML journey by implementing core al
 * **Data Analysis:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **ML Libraries:** Scikit-Learn, Scipy
-* **Environment:** Jupyter Notebooks / VS Code
+* **Environment:** Jupyter Notebooks / VS Code / Colab
 
 ---
 
